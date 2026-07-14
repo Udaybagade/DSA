@@ -1,5 +1,37 @@
 class Solution {
     public boolean validPath(int n, int[][] edges, int source, int destination) {
+        List<List<Integer>> graph=new ArrayList<>();
+        if(n==1)return true;
+        for(int i=0;i<n;i++){
+            graph.add(new ArrayList<>());
+        }
+        for(int[] e:edges){
+            int u=e[0],v=e[1];
+            graph.get(u).add(v);
+            graph.get(v).add(u);
+        }
+        boolean[] visited=new boolean[n];
+        return checkDfs(graph,source,destination,visited);
+    }
+    public boolean checkDfs(List<List<Integer>> graph,int src,int dest,boolean[] visited){
+        if(src==dest){
+            return true;
+        }
+        visited[src]=true;
+        for(int w:graph.get(src)){
+            if(!visited[w]){
+                if(checkDfs(graph,w,dest,visited))
+                {return true;}
+            
+            }
+        }
+        return false;
+    }
+}
+
+/*
+class Solution {
+    public boolean validPath(int n, int[][] edges, int source, int destination) {
         ArrayList<Integer>[] graph=new ArrayList[n];
 
         for(int i=0;i<n;i++){
@@ -26,4 +58,4 @@ class Solution {
         }
         return false;
     }
-}
+}*/

@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Udaybagade/DSA/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/Udaybagade/DSA/tree/master/0039-combination-sum) |
+| [0200-number-of-islands](https://github.com/Udaybagade/DSA/tree/master/0200-number-of-islands) |
 | [0997-find-the-town-judge](https://github.com/Udaybagade/DSA/tree/master/0997-find-the-town-judge) |
 ## Two Pointers
 |  |
@@ -47,13 +48,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Udaybagade/DSA/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Udaybagade/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Udaybagade/DSA/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Udaybagade/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Udaybagade/DSA/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Udaybagade/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Udaybagade/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

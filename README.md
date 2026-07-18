@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Udaybagade/DSA/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/Udaybagade/DSA/tree/master/0039-combination-sum) |
 | [0200-number-of-islands](https://github.com/Udaybagade/DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Udaybagade/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Udaybagade/DSA/tree/master/0733-flood-fill) |
 | [0997-find-the-town-judge](https://github.com/Udaybagade/DSA/tree/master/0997-find-the-town-judge) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Udaybagade/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -51,23 +52,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Udaybagade/DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Udaybagade/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Udaybagade/DSA/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Udaybagade/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Udaybagade/DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Udaybagade/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Udaybagade/DSA/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Udaybagade/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Udaybagade/DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Udaybagade/DSA/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Udaybagade/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Udaybagade/DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Udaybagade/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Udaybagade/DSA/tree/master/0733-flood-fill) |
 ## Math
 |  |

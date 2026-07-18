@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Udaybagade/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Udaybagade/DSA/tree/master/0733-flood-fill) |
 | [0997-find-the-town-judge](https://github.com/Udaybagade/DSA/tree/master/0997-find-the-town-judge) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Udaybagade/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Udaybagade/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Udaybagade/DSA/tree/master/0733-flood-fill) |
+## Math
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Udaybagade/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Udaybagade/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->

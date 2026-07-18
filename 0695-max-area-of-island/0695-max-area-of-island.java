@@ -7,16 +7,16 @@ class Solution {
                     max=Math.max(max,dfs(i,j,grid));
                 }
             }
-
         }
         return max;
     }
     int dfs(int i,int j,int[][] grid){
-        if(i<0||i>=grid.length ||
-            j<0 ||j>=grid[i].length||grid[i][j]==0
+        if(i<0 ||i>=grid.length||
+            j<0||j>=grid[i].length||
+            grid[i][j]==0
         )return 0;
-        grid[i][j]=0;
 
+        grid[i][j]=0;
         int sum=1+dfs(i-1,j,grid)+dfs(i,j-1,grid)+dfs(i+1,j,grid)+dfs(i,j+1,grid);
         return sum;
     }

@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Udaybagade/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/Udaybagade/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0997-find-the-town-judge](https://github.com/Udaybagade/DSA/tree/master/0997-find-the-town-judge) |
 ## String
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Udaybagade/DSA/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/Udaybagade/DSA/tree/master/0039-combination-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Udaybagade/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Udaybagade/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Udaybagade/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Udaybagade/DSA/tree/master/0733-flood-fill) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Udaybagade/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Udaybagade/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Udaybagade/DSA/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Udaybagade/DSA/tree/master/1971-find-if-path-exists-in-graph) |
